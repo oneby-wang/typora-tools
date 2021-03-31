@@ -11,7 +11,7 @@
 
 # 如何使用？
 
-在 IDEA 中导入此 Maven 项目，并根据需要修改 ypora-tools\src\main\resources\typora-tool.properties 配置文件。水印参数具体设置可参考阿里云 OSS 官网，其中 `type_d3F5LXplbmhlaQ` 中 `d3F5LXplbmhlaQ` 为 Oneby's Blog 的 Base64 编码
+在 IDEA 中导入此 Maven 项目，并根据需要修改 typora-tools\src\main\resources\typora-tool.properties 配置文件。水印参数具体设置可参考阿里云 OSS 官网，其中 `type_d3F5LXplbmhlaQ` 中 `d3F5LXplbmhlaQ` 为 Oneby's Blog 的 Base64 编码
 
 ```properties
 # 是否需要进行图片清理
